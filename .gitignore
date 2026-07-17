@@ -1,0 +1,7 @@
+# ============================
+#  IGNORER LES DATASETS
+# ============================
+data/mvtec_dataset/
+#data/mvtec_loco/
+#data/mvtec_3d/
+data/*
