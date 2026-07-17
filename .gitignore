@@ -5,3 +5,25 @@ data/mvtec_dataset/
 #data/mvtec_loco/
 #data/mvtec_3d/
 data/*
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+# Models sauvegardés
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
